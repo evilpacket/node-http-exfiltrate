@@ -6,7 +6,8 @@ This is just a quick a dirty HTTP server that listens on a port waiting for a fi
 
 ## Install
 1. git clone https://github.com/evilpacket/node-http-exfiltrate.git
-2. npm i
+2. cd node-http-exfiltrate
+3. npm i
 
 ## Usage
 ```
