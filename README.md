@@ -17,5 +17,5 @@ Options:
   --insecure  Start insecure HTTP server
 ```
 ## Warning
-The HTTPS server will use the provided SSL certificates by default. You should really generate your own certs to use, but hey it's up to you. ![This](http://www.akadia.com/services/ssh_test_certificate.html) might help with that.
+The HTTPS server will use the provided SSL certificates by default. You should really generate your own certs to use, but hey it's up to you. http://www.akadia.com/services/ssh_test_certificate.html might help with that.
 
